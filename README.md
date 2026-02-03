@@ -28,7 +28,15 @@
 1. **Download** the latest version from the [Releases Page](https://github.com/funtrustd/meowse/releases).
 2. **Open** the `meowse.exe`.
 3. **Press Start** and let the magic happen! ✨
-4. *Don't forget to drink some strawberry milk while using it!* 🍓🍼
+
+<h3 align="center">🎥 𝒱𝒾𝒹𝑒𝑜 𝐼𝓃𝓈𝓉𝒶𝓁𝓁𝒶𝓉𝒾𝑜𝓃 𝒢𝓊𝒾𝒹𝑒 🎥</h3>
+<p align="center">
+  <a href="https://youtu.be/9sfr6c_Y1Ss">
+    <img src="https://img.youtube.com/vi/9sfr6c_Y1Ss/0.jpg" alt="Meowse Installation Guide" width="600" style="border-radius: 20px;">
+  </a>
+</p>
+
+<p align="center"><i>✨ Click the image above to watch the tutorial! ✨</i></p>
 
 ---
 
