@@ -48,6 +48,8 @@
 
 </div>
 
+<p align="center"><i>𝓈𝑜𝓌𝓌𝓎 𝒻𝑜𝓇 𝒶𝓃𝓎 𝓉𝓎𝓅𝑜𝓈 𝒾'𝓂 𝓉𝓎𝓓𝒾𝓃𝑔 𝓉𝒽𝒾𝓈 𝓌𝒽𝒾𝓁𝑒 𝒹𝓇𝒾𝓃𝓀𝒾𝓃𝑔 𝓈𝓉𝓇𝒶𝓌𝒷𝑒𝓇𝓇𝓎 𝓂𝒾𝓁𝓀!!</i> 🍓🍼</p>
+
 <p align="center">
   <a href="https://emoji.gg/emoji/5349-hellokittybyebye"><img src="https://cdn3.emoji.gg/emojis/5349-hellokittybyebye.png" width="128px" height="128px" alt="HelloKittyByeBye"></a>
 </p>
