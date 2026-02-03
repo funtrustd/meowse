@@ -44,6 +44,8 @@
 <div align="center">
 
 [![discord](https://img.shields.io/badge/Discord-ff69b4?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/funtrustd)
+[![wiki](https://img.shields.io/badge/GitHub_Wiki-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/funtrustd/meowse/wiki)
+
 <p><b>username: funtrustd</b></p>
 
 </div>
