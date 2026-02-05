@@ -1,13 +1,13 @@
 <div align="center">
 
-<h1 align="center"> 🎀 𝓂𝑒𝑜𝓌𝓈𝑒 𝓋𝟣.𝟢 🎀 <a href="https://emoji.gg/emoji/2696-hellokitty-sparkle"><img src="https://cdn3.emoji.gg/emojis/2696-hellokitty-sparkle.png" width="64px" height="64px" alt="hellokitty_sparkle"></a></h1>
+<h1 align="center"> 🎀 𝓂𝑒𝑜𝓌𝓈𝑒 𝓋𝟣.𝟣.𝟢 🎀 <a href="https://emoji.gg/emoji/2696-hellokitty-sparkle"><img src="https://cdn3.emoji.gg/emojis/2696-hellokitty-sparkle.png" width="64px" height="64px" alt="hellokitty_sparkle"></a></h1>
 
 <h3 align="center">✨ control your pc with magic hand gestures! ✨</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Vibe-Kawaii-ff69b4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/License-Opensource-red?style=for-the-badge" />
 </p>
 
 <div align="left">
