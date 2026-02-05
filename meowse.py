@@ -36,7 +36,7 @@ PINK_LIGHT = "#FFB7C5"  # Sakura Pink
 PINK_BG = "#FFF0F5"     # Lavender Blush
 TEXT_COLOR = "#8B008B"  # Dark Magenta
 
-# Asset URLs from your README
+# Asset URLs
 URL_ICON = "https://cdn3.emoji.gg/emojis/2696-hellokitty-sparkle.png"
 URL_BYE = "https://cdn3.emoji.gg/emojis/5349-hellokittybyebye.png"
 
@@ -365,5 +365,6 @@ tb.Button(
     bootstyle="link",
     command=show_about
 ).pack()
+
 
 app.mainloop()
